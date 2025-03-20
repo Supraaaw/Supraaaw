@@ -15,6 +15,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Supraaaw.Supraaaw&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -67,6 +73,14 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   PacMan</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supraaaw/Supraaaw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Supraaaw/Supraaaw/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Supraaaw/Supraaaw/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
